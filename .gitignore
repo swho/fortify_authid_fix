@@ -1,0 +1,4 @@
+.idea
+build
+*.spec
+fortify_authid_fix.iml
